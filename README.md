@@ -1,5 +1,5 @@
-# -Image-Classification-with-Low-Level-Feature-Enhancement-and-Attention-Mechanism
-🎯 Image Classification with Low-Level Feature Enhancement and Attention Mechanism
+# Image-Classification-with-Low-Level-Feature-Enhancement-and-Attention-Mechanism
+ Image Classification with Low-Level Feature Enhancement and Attention Mechanism
 
 Implementation of "Image Classification Based on Low-Level Feature Enhancement and Attention Mechanism" (Zhang et al., 2024)
 
